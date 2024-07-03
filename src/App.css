@@ -1,0 +1,27 @@
+.rating svg{
+    width: 20px;
+}
+
+.cart-svg{
+    width: 33px;
+}
+.parent-brands{
+    
+  box-sizing: border-box;
+  width: fit-content;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.brands-img{
+    width: 200px;
+    height: 130px;
+    margin-bottom: 10px;
+}
+@media (max-width:992px) {
+    .brands-img{
+        width: 130px;
+        height: 80px;
+        margin-bottom: 10px;
+    }   
+}
